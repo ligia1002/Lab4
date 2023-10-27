@@ -1,0 +1,59 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"45cfdd10-c34d-437e-baea-c87bb0aa07a2\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/problema/FormatCopiere.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problema/ModTiparire.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problema/SistemOperare.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problema/Situatie.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/problema/Copiator.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/problema/Copiator.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/problema/EchipamentElectronic.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/problema/EchipamentElectronic.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/problema/Imprimanta.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/problema/Imprimanta.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/problema/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/problema/Main.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/problema/Meniu.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/problema/Meniu.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/problema/SistemDeCalcul.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/problema/SistemDeCalcul.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/problema/echipamente.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/problema/echipamente.txt\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2Wq4egToExACkXObPSx1eXu59Jv\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"45cfdd10-c34d-437e-baea-c87bb0aa07a2\" name=\"Changes\" comment=\"\" />\r\n      <created>1697446875697</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1697446875697</updated>\r\n      <workItem from=\"1697446876703\" duration=\"8988000\" />\r\n      <workItem from=\"1697632916241\" duration=\"8154000\" />\r\n      <workItem from=\"1697720537302\" duration=\"991000\" />\r\n      <workItem from=\"1697744733893\" duration=\"537000\" />\r\n      <workItem from=\"1697799589824\" duration=\"575000\" />\r\n      <workItem from=\"1697800574492\" duration=\"5203000\" />\r\n      <workItem from=\"1697826470466\" duration=\"1446000\" />\r\n      <workItem from=\"1698265757773\" duration=\"59000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d6b77795d266d89a0ed98a1a5dcbd1db87526842)
++++ b/.idea/workspace.xml	(date 1698431711957)
+@@ -4,21 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="45cfdd10-c34d-437e-baea-c87bb0aa07a2" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/problema/FormatCopiere.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problema/ModTiparire.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problema/SistemOperare.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problema/Situatie.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/problema/Copiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Copiator.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/problema/EchipamentElectronic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/EchipamentElectronic.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/problema/Imprimanta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Imprimanta.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/problema/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Main.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/problema/Meniu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Meniu.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/problema/SistemDeCalcul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/SistemDeCalcul.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/problema/echipamente.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/echipamente.txt" afterDir="false" />
+-    </list>
++    <list default="true" id="45cfdd10-c34d-437e-baea-c87bb0aa07a2" name="Changes" comment="Initial commit" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -74,10 +60,24 @@
+       <workItem from="1697800574492" duration="5203000" />
+       <workItem from="1697826470466" duration="1446000" />
+       <workItem from="1698265757773" duration="59000" />
++      <workItem from="1698431373830" duration="336000" />
+     </task>
++    <task id="LOCAL-00001" summary="Initial commit">
++      <option name="closed" value="true" />
++      <created>1698431411563</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1698431411563</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Initial commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
++  </component>
+ </project>
+\ No newline at end of file
