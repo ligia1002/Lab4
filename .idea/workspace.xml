@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45cfdd10-c34d-437e-baea-c87bb0aa07a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problema/FormatCopiere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problema/ModTiparire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problema/SistemOperare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problema/Situatie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="45cfdd10-c34d-437e-baea-c87bb0aa07a2" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problema/Copiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Copiator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problema/EchipamentElectronic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/EchipamentElectronic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problema/Imprimanta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Imprimanta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problema/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problema/Meniu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/Meniu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problema/SistemDeCalcul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/SistemDeCalcul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problema/echipamente.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problema/echipamente.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,5 +68,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -132,6 +132,17 @@ public class Meniu {
             e.printStackTrace();
         }
     }
+
+    public static List<EchipamentElectronic> deserializare() {
+        List<EchipamentElectronic> echipamente = null;
+        try (ObjectInputStream objectIn = new ObjectInputStream(new FileInputStream("echip.bin"))) {
+            echipamente = (List<EchipamentElectronic>) objectIn.readObject();
+            System.out.println("Deserializare reușită din echip.bin.");
+        } catch (IOException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        return echipamente;
+    }
     public static void ruleazaMeniu(List<EchipamentElectronic> echipamente) {
         Scanner scanner = new Scanner(System.in);
         int optiune;
